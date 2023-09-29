@@ -1,0 +1,14 @@
+.continer{
+    margin: auto;
+  width: 50%;
+
+  padding: 10px;
+}
+
+.color{
+
+  background-color: aqua;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px;
+}
