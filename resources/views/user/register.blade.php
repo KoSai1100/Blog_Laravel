@@ -1,6 +1,6 @@
 <x-layout>
 
-    <form action="/register" method="POST">
+    <form action="/register" method="POST" enctype="multipart/form-data">
     @csrf
 
     <div>
